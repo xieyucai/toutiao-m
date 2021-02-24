@@ -8,7 +8,7 @@
         <van-button block type="info" native-type="submit">
           提交
         </van-button>
-      </div>
+      </div>123
     </van-form>
   </div>
 </template>
